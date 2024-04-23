@@ -1,94 +1,74 @@
-<p align="center">
-  <a href="https://cube.dev?ref=github-readme"><img src="https://raw.githubusercontent.com/cube-js/cube/master/docs/content/cube-logo-with-bg.png" alt="Cube — Semantic Layer for Data Applications" width="300px"></a>
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><p align="center" dir="auto">
+  <a href="https://cube.dev?ref=github-readme" rel="nofollow"><img src="https://raw.githubusercontent.com/cube-js/cube/master/docs/content/cube-logo-with-bg.png" alt="Cube——数据应用程序的语义层" width="300px" style="max-width: 100%;"></a>
 </p>
-
-[Website](https://cube.dev?ref=github-readme) • [Getting Started](https://cube.dev/docs/getting-started?ref=github-readme) • [Docs](https://cube.dev/docs?ref=github-readme) • [Examples](https://cube.dev/docs/examples?ref=github-readme) • [Blog](https://cube.dev/blog?ref=github-readme) • [Slack](https://slack.cube.dev?ref=github-readme) • [Twitter](https://twitter.com/the_cube_dev)
-
-[![npm version](https://badge.fury.io/js/%40cubejs-backend%2Fserver.svg)](https://badge.fury.io/js/%40cubejs-backend%2Fserver)
-[![GitHub Actions](https://github.com/cube-js/cube/workflows/Build/badge.svg)](https://github.com/cube-js/cube/actions?query=workflow%3ABuild+branch%3Amaster)
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcube-js%2Fcube.js.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcube-js%2Fcube.js?ref=badge_shield)
-
-__Cube is the semantic layer for building data applications.__ It helps data engineers and application developers access data from modern data stores, organize it into consistent definitions, and deliver it to every application.
-
-<img
-  src="https://ucarecdn.com/8d945f29-e9eb-4e7f-9e9e-29ae7074e195/"
-  style="border: none"
-  width="100%"
-/>
-
-<p align="center">
-  <i>Learn more about connecting Cube to <a href="https://cube.dev/docs/config/databases?ref=github-readme" target="_blank">data sources</a> and <a href="https://cube.dev/docs/config/downstream?ref=github-readme" target="_blank">analytics & visualization tools</a>.</i>
+<p dir="auto"><a href="https://cube.dev?ref=github-readme" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网站</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">•</font></font><a href="https://cube.dev/docs/getting-started?ref=github-readme" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">入门</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">•</font></font><a href="https://cube.dev/docs?ref=github-readme" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">•</font></font><a href="https://cube.dev/docs/examples?ref=github-readme" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">示例</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">•</font></font><a href="https://cube.dev/blog?ref=github-readme" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">博客</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">• </font></font><a href="https://slack.cube.dev?ref=github-readme" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Slack</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> • </font></font><a href="https://twitter.com/the_cube_dev" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Twitter</font></font></a></p>
+<p dir="auto"><a href="https://badge.fury.io/js/%40cubejs-backend%2Fserver" rel="nofollow"><img src="https://camo.githubusercontent.com/5e2b629e14ddc10ac9753a27475ca2f60dde0f54a2bdd05bc1ed8deeaff882a2/68747470733a2f2f62616467652e667572792e696f2f6a732f253430637562656a732d6261636b656e642532467365727665722e737667" alt="npm版本" data-canonical-src="https://badge.fury.io/js/%40cubejs-backend%2Fserver.svg" style="max-width: 100%;"></a>
+<a href="https://github.com/cube-js/cube/actions?query=workflow%3ABuild+branch%3Amaster"><img src="https://github.com/cube-js/cube/workflows/Build/badge.svg" alt="GitHub 操作" style="max-width: 100%;"></a>
+<a href="https://app.fossa.io/projects/git%2Bgithub.com%2Fcube-js%2Fcube.js?ref=badge_shield" rel="nofollow"><img src="https://camo.githubusercontent.com/f212d142694fb0c8a5c0807e04517531fe858c703a7913919b13748a3420b0e1/68747470733a2f2f6170702e666f7373612e696f2f6170692f70726f6a656374732f6769742532426769746875622e636f6d253246637562652d6a73253246637562652e6a732e7376673f747970653d736869656c64" alt="福萨现状" data-canonical-src="https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcube-js%2Fcube.js.svg?type=shield" style="max-width: 100%;"></a></p>
+<p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cube 是构建数据应用程序的语义层。</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">它帮助数据工程师和应用程序开发人员从现代数据存储中访问数据，将其组织成一致的定义，并将其交付给每个应用程序。</font></font></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a57b15c187aee310ca7ed9bc288e3d41aa55541f30aa5875b3dd1dcb66acca5b/68747470733a2f2f756361726563646e2e636f6d2f38643934356632392d653965622d346537662d396539652d3239616537303734653139352f"><img src="https://camo.githubusercontent.com/a57b15c187aee310ca7ed9bc288e3d41aa55541f30aa5875b3dd1dcb66acca5b/68747470733a2f2f756361726563646e2e636f6d2f38643934356632392d653965622d346537662d396539652d3239616537303734653139352f" width="100%" data-canonical-src="https://ucarecdn.com/8d945f29-e9eb-4e7f-9e9e-29ae7074e195/" style="max-width: 100%;"></a></p>
+<p align="center" dir="auto">
+  <i><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">了解有关将 Cube 连接到</font></font><a href="https://cube.dev/docs/config/databases?ref=github-readme" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据源</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以及</font></font><a href="https://cube.dev/docs/config/downstream?ref=github-readme" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">分析和可视化工具的</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">更多信息。</font></font></i>
 </p>
-
-Cube was designed to work with all SQL-enabled data sources, including cloud data warehouses like Snowflake or Google BigQuery, query engines like Presto or Amazon Athena, and application databases like Postgres. Cube has a built-in relational caching engine to provide sub-second latency and high concurrency for API requests.
-
-For more details, see the [introduction](https://cube.dev/docs/cubejs-introduction?ref=github-readme) page in our documentation.
-
-## Why Cube?
-
-If you are building a data application—such as a business intelligence tool or a customer-facing analytics feature—you’ll probably face the following problems:
-
-1. __SQL code organization.__ Sooner or later, modeling even a dozen metrics with a dozen dimensions using pure SQL queries becomes a maintenance nightmare, which leads to building a modeling framework.
-2. __Performance.__ Most of the time and effort in modern analytics software development is spent providing adequate time to insight. In a world where every company’s data is big data, writing just SQL queries to get insight isn’t enough anymore.
-3. __Access Control.__ It is important to secure and govern access to data for all downstream data consuming applications.
-
-Cube has the necessary infrastructure and features to implement efficient data modeling, access control, and performance optimizations so that every application—like embedded analytics, dashboarding and reporting tools, data notebooks, and other tools—can access consistent data via REST, SQL, and GraphQL APIs.
-
-![](https://raw.githubusercontent.com/cube-js/cube.js/master/docs/content/old-was-vs-cubejs-way.png)
-
-## Getting Started 🚀
-
-### Cube Cloud
-
-[Cube Cloud](https://cube.dev/cloud?ref=github-readme) is the fastest way to get started with Cube. It provides managed infrastructure as well as an instant and free access for development projects and proofs of concept.
-
-<a href="https://cubecloud.dev/auth/signup?ref=github-readme"><img src="https://cubedev-blog-images.s3.us-east-2.amazonaws.com/f1f1eac0-0b44-4c47-936e-33b5c06eedf0.png" alt="Get started now" width="200px"></a>
-
-For a step-by-step guide on Cube Cloud, [see the docs](https://cube.dev/docs/getting-started/cloud/overview?ref=github-readme).
-
-### Docker
-
-Alternatively, you can get started with Cube locally or self-host it with [Docker](https://www.docker.com/).
-
-Once Docker is installed, in a new folder for your project, run the following command:
-
-```bash
-docker run -p 4000:4000 \
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cube 旨在与所有支持 SQL 的数据源配合使用，包括 Snowflake 或 Google BigQuery 等云数据仓库、Presto 或 Amazon Athena 等查询引擎以及 Postgres 等应用程序数据库。 Cube 内置关系型缓存引擎，可为 API 请求提供亚秒级延迟和高并发性。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">有关更多详细信息，请参阅</font><font style="vertical-align: inherit;">我们文档中的</font></font><a href="https://cube.dev/docs/cubejs-introduction?ref=github-readme" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">介绍页面。</font></font></a><font style="vertical-align: inherit;"></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">为什么是立方体？</font></font></h2><a id="user-content-why-cube" class="anchor" aria-label="永久链接：为什么是立方体？" href="#why-cube"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您正在构建数据应用程序（例如商业智能工具或面向客户的分析功能），您可能会面临以下问题：</font></font></p>
+<ol dir="auto">
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SQL 代码组织。</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">迟早，使用纯 SQL 查询对具有十几个维度的十几个指标进行建模会成为维护的噩梦，这需要构建建模框架。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">表现。</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">现代分析软件开发中的大部分时间和精力都花在提供足够的时间来获得洞察力上。在每个公司的数据都是大数据的世界中，仅编写 SQL 查询来获取洞察力已经不够了。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">访问控制。</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">保护和管理所有下游数据消耗应用程序的数据访问非常重要。</font></font></li>
+</ol>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cube 拥有必要的基础设施和功能来实现高效的数据建模、访问控制和性能优化，以便每个应用程序（例如嵌入式分析、仪表板和报告工具、数据笔记本和其他工具）都可以通过 REST、SQL 和 SQL 访问一致的数据。 GraphQL API。</font></font></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/cube-js/cube.js/master/docs/content/old-was-vs-cubejs-way.png"><img src="https://raw.githubusercontent.com/cube-js/cube.js/master/docs/content/old-was-vs-cubejs-way.png" alt="" style="max-width: 100%;"></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开始使用🚀</font></font></h2><a id="user-content-getting-started-" class="anchor" aria-label="永久链接：开始使用🚀" href="#getting-started-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">魔方云</font></font></h3><a id="user-content-cube-cloud" class="anchor" aria-label="永久链接：立方云" href="#cube-cloud"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a href="https://cube.dev/cloud?ref=github-readme" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cube Cloud</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">是开始使用 Cube 的最快方式。它提供托管基础设施以及开发项目和概念验证的即时免费访问。</font></font></p>
+<p dir="auto"><a href="https://cubecloud.dev/auth/signup?ref=github-readme" rel="nofollow"><img src="https://camo.githubusercontent.com/ab09e8648599c4e3c926270d4ae217c3439150fa51ccbc146955219af84becaf/68747470733a2f2f637562656465762d626c6f672d696d616765732e73332e75732d656173742d322e616d617a6f6e6177732e636f6d2f66316631656163302d306234342d346334372d393336652d3333623563303665656466302e706e67" alt="现在就开始" width="200px" data-canonical-src="https://cubedev-blog-images.s3.us-east-2.amazonaws.com/f1f1eac0-0b44-4c47-936e-33b5c06eedf0.png" style="max-width: 100%;"></a></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">有关 Cube Cloud 的分步指南，</font></font><a href="https://cube.dev/docs/getting-started/cloud/overview?ref=github-readme" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请参阅文档</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">码头工人</font></font></h3><a id="user-content-docker" class="anchor" aria-label="永久链接：Docker" href="#docker"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">或者，您可以在本地开始使用 Cube 或使用</font></font><a href="https://www.docker.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Docker</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自行托管它。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装 Docker 后，在项目的新文件夹中运行以下命令：</font></font></p>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>docker run -p 4000:4000 \
+  -p 15432:15432 \
+  -v <span class="pl-smi">${PWD}</span>:/cube/conf \
+  -e CUBEJS_DEV_MODE=true \
+  cubejs/cube</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="docker run -p 4000:4000 \
   -p 15432:15432 \
   -v ${PWD}:/cube/conf \
   -e CUBEJS_DEV_MODE=true \
-  cubejs/cube
-```
-
-Then, open http://localhost:4000 in your browser to continue setup.
-
-For a step-by-step guide on Docker, [see the docs](https://cube.dev/docs/getting-started-docker?ref=github-readme).
-
-## Resources
-
-- [Documentation](https://cube.dev/docs?ref=github-readme)
-- [Getting Started](https://cube.dev/docs/getting-started?ref=github-readme)
-- [Examples & Tutorials](https://cube.dev/docs/examples?ref=github-readme)
-- [Architecture](https://cube.dev/docs/product/introduction#four-layers-of-semantic-layer)
-
-## Contributing
-
-There are many ways you can contribute to Cube! Here are a few possibilities:
-
-* Star this repo and follow us on [Twitter](https://twitter.com/the_cube_dev).
-* Add Cube to your stack on [Stackshare](https://stackshare.io/cube-js).
-* Upvote issues with 👍 reaction so we know what's the demand for particular issue to prioritize it within road map.
-* Create issues every time you feel something is missing or goes wrong.
-* Ask questions on [Stack Overflow with cube.js tag](https://stackoverflow.com/questions/tagged/cube.js) if others can have these questions as well.
-* Provide pull requests for all open issues and especially for those with [help wanted](https://github.com/cube-js/cube/issues?q=is%3Aissue+is%3Aopen+label%3A"help+wanted") and [good first issue](https://github.com/cube-js/cube/issues?q=is%3Aissue+is%3Aopen+label%3A"good+first+issue") labels.
-
-All sort of contributions are **welcome and extremely helpful** 🙌 Please refer to [the contribution guide](https://github.com/cube-js/cube/blob/master/CONTRIBUTING.md) for more information.
-
-## License
-
-Cube Client is [MIT licensed](./packages/cubejs-client-core/LICENSE).
-
-Cube Backend is [Apache 2.0 licensed](./packages/cubejs-server/LICENSE).
-
-
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcube-js%2Fcube.js.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcube-js%2Fcube.js?ref=badge_large)
+  cubejs/cube" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">然后，在浏览器中打开</font></font><a href="http://localhost:4000" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">http://localhost:4000</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">继续设置。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">有关 Docker 的分步指南，</font></font><a href="https://cube.dev/docs/getting-started-docker?ref=github-readme" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请参阅文档</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">资源</font></font></h2><a id="user-content-resources" class="anchor" aria-label="永久链接：资源" href="#resources"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="https://cube.dev/docs?ref=github-readme" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档</font></font></a></li>
+<li><a href="https://cube.dev/docs/getting-started?ref=github-readme" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">入门</font></font></a></li>
+<li><a href="https://cube.dev/docs/examples?ref=github-readme" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">示例和教程</font></font></a></li>
+<li><a href="https://cube.dev/docs/product/introduction#four-layers-of-semantic-layer" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">建筑学</font></font></a></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献</font></font></h2><a id="user-content-contributing" class="anchor" aria-label="永久链接：贡献" href="#contributing"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您可以通过多种方式为 Cube 做出贡献！以下是一些可能性：</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">给这个仓库加注星标并在</font></font><a href="https://twitter.com/the_cube_dev" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Twitter</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">上关注我们。</font></font></li>
+<li><font style="vertical-align: inherit;"></font><a href="https://stackshare.io/cube-js" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">将 Cube 添加到Stackshare</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">上的堆栈中</font><font style="vertical-align: inherit;">。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">通过 👍 反应对问题进行投票，以便我们知道特定问题的需求是什么，以便在路线图中优先考虑它。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">每当您感觉缺少某些内容或出现问题时，就创建问题。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果其他人也有这些问题，请使用</font></font><a href="https://stackoverflow.com/questions/tagged/cube.js" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">cube.js 标签</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在 Stack Overflow 上提问。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">为所有未解决的问题提供拉取请求，尤其是那些</font></font><a href="https://github.com/cube-js/cube/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">需要帮助</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">且</font></font><a href="https://github.com/cube-js/cube/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">首期</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">标签良好的问题。</font></font></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">欢迎各种贡献</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，并且非常有帮助</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。请参阅</font></font><a href="https://github.com/cube-js/cube/blob/master/CONTRIBUTING.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献指南</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以获取更多信息。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">执照</font></font></h2><a id="user-content-license" class="anchor" aria-label="永久链接：许可证" href="#license"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cube Client 已获得</font></font><a href="/cube-js/cube/blob/master/packages/cubejs-client-core/LICENSE"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MIT 许可</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Cube Backend 是</font></font><a href="/cube-js/cube/blob/master/packages/cubejs-server/LICENSE"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Apache 2.0 许可的</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><a href="https://app.fossa.io/projects/git%2Bgithub.com%2Fcube-js%2Fcube.js?ref=badge_large" rel="nofollow"><img src="https://camo.githubusercontent.com/aeb87be93b4e6c17d93ddff6df9411426d09c3eb2a76c5541afe3ac181072991/68747470733a2f2f6170702e666f7373612e696f2f6170692f70726f6a656374732f6769742532426769746875622e636f6d253246637562652d6a73253246637562652e6a732e7376673f747970653d6c61726765" alt="福萨现状" data-canonical-src="https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcube-js%2Fcube.js.svg?type=large" style="max-width: 100%;"></a></p>
+</article></div>
